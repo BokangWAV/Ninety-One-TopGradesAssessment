@@ -1,4 +1,4 @@
-# TopGradesApp
+# TopGradesApplication
 
 ## Overview
 
@@ -35,6 +35,7 @@ In this project I used **C# OOP, file I/O, database integration, and basic sorti
    * `POST /scores` → Add a new student score.
    * `GET /student?firstName=&secondName=` → Retrieve a specific student's score.
    * `GET /top-scores` → Retrieve all top scorers.
+   * Provide an "API-Breakdown.md" that shows this a bit more.
 
 5. **Security** (for API)
 
